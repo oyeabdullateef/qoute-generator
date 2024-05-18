@@ -39,11 +39,13 @@ body {
   margin-top: 100px;
 }
 .quote {
+  background-color: dimgrey;
   font-size: 45px;
   font-style: italic;
   font-weight: 100;
   text-align: center;
   width: 60%;
+  margin-bottom: 50px;
 }
 .generate {
   background-color: white;
