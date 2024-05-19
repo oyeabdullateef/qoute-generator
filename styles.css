@@ -60,3 +60,13 @@ body {
 .light .generate {
   border-color: black;
 }
+@media (max-width: 600px) {
+  body {
+    flex-wrap: wrap;
+  }
+}
+@media (max-width: 480px) {
+  body {
+    flex-direction: column;
+  }
+}
