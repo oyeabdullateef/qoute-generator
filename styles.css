@@ -71,7 +71,8 @@ body {
     flex-direction: column;
   }
   .main.quote {
-    width: 100px;
+    width: 400px;
+    height: 400px;
     font-size: 60px;
     font-weight: 50px;
   }
