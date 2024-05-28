@@ -67,13 +67,10 @@ body {
   }
 }
 @media (max-width: 480px) {
-  body {
-    flex-direction: column;
-  }
   .main.quote {
     width: 400px;
     height: 400px;
-    font-size: 60px;
-    font-weight: 50px;
+    font-size: 30px;
+    font-weight: 20px;
   }
 }
