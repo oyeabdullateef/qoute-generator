@@ -61,12 +61,12 @@ body {
 .light .generate {
   border-color: black;
 }
-@media (max-width: 600px) {
+@media (max-width: 640px) {
   body {
     flex-wrap: wrap;
   }
 }
-@media (max-width: 480px) {
+@media (max-width: 640px) {
   .main.quote {
     width: 400px;
     height: 400px;
